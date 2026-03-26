@@ -1,19 +1,11 @@
 {
   "version": "1.1.0",
   "notes": "Versão 1.1.0",
-  "pub_date": "2026-03-2610:53:00",
+  "pub_date": "2026-03-2611:11:00",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "windows-x86_64": {
-      "signature": "https://github.com/ratskcorr/autopilot_updater/releases/download/1.1.0/autopilot_1.1.0_x64_en-US.msi.sig",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc1VvT0xMbnRqdkZyT0ttMkRSZXlGb0JEYkY3YXYzYUUvRDYyYjFONFh2Vi9wMjBiYUtNUit6cTFHQlFWQ2hjVjN3aysxKzVCY1pkZkRxK0l4b1NUTlFCTkFsYjhRNmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTM0MTU2CWZpbGU6YXV0b3BpbG90XzEuMS4wX3g2NF9lbi1VUy5tc2kKb2FvaG41cURoTTdlVTVFazc2TEVMbjFVOENIK3VOVTkxc0UyVGdVSGF1b0U3bThMUmRJMnBRUzlaZHZSSVB5NCt0QzM3UHlnQkFYSCtPSjBDbG9lQmc9PQo=",
       "url": "https://github.com/ratskcorr/autopilot_updater/releases/download/1.1.0/autopilot_1.1.0_x64_en-US.msi"
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
     }
   }
 }

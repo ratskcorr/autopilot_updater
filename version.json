@@ -8,8 +8,8 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "https://github.com/ratskcorr/autopilot_updater/releases/download/1.0.0/autopilot_0.1.0_x64_en-US.msi.sig",
+      "url": "https://github.com/ratskcorr/autopilot_updater/releases/download/1.0.0/autopilot_0.1.0_x64_en-US.msi"
     },
     "darwin-x86_64": {
       "signature": "",

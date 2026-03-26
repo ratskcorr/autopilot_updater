@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "Versão v1.0.0",
+  "pub_date": "2026-03-2609:56:00",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}

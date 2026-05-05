@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Versão 1.1.0",
-  "pub_date": "2026-05-05T11:32:00Z",
+  "version": "0.1.0",
+  "notes": "Versão 0.1.0 (beta)",
+  "pub_date": "2026-05-05T11:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdEU1R3cwVWFnWVhpRHdQaERQd0hzZ0pWUzVzVy90UUR5NzFhbXhaREhsbk8wSWlWNk9KRXZTaU9BVmxIaVNEYzlMU1l0YTVVeVVweUtIOEcrZndhclBlMlZLazV4cEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTkxMzIzCWZpbGU6QXV0b3BpbG90XzEuMS4wX3g2NC1zZXR1cC5leGUKZ1VqNVhVMENRT3lIUmdKRy9hV2YvQzJ1TVVVVGpQYTYvWU9oa3IvSXlZZ2UyTXE1elpVYnkyTlF1T1BCSGZOR3JOa0tkZ0dvTUM1Q3liNHNiZWlZRHc9PQo=",
-      "url": "https://github.com/ratskcorr/autopilot_updater/releases/download/1.1.0/Autopilot_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdEU1R3cwVWFnWWY1ejdUNWR3ZGdGeEV2eUYwWkxHN2pRLzdBSkhzVHI0OXhWZS9SeFY5VGc2OXhNZUgxYVdTOUU0TjlhTUNwOWhXaTNCT0psMDV6dlZIWDdZWWJCOWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTkyMjQ4CWZpbGU6QXV0b3BpbG90XzAuMS4wX3g2NC1zZXR1cC5leGUKUUlOVEpjTFhTQnlJckZNaHoyZldNKyt1YXM2WDAyNnJzdmY4aDZpVENTSUg2ZEtDSnVwY2dBYU9aVEd3bUpDWDFQSERzWmFZSmFtOExKSFNMZkIyQ3c9PQo=",
+      "url": "https://github.com/ratskcorr/autopilot_updater/releases/download/0.1.0/Autopilot_0.1.0_x64-setup.exe"
     }
   }
 }

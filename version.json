@@ -4,7 +4,7 @@
   "pub_date": "2026-05-05T10:57:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEFCQzQ3NDkzMzRFNDRENDgKUldSSVRlUTBrM1RFcTdIOFNpVFJSd05sMnV0RmlEVW8zMXZCdXdKeXZlTlN3djFSSDZKRDIzcU4K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEJGMEQxOEZCNTBBOUU5MjIKUldRaTZhbFEreGdOdjhweEM1ZCtSQlVzSFVTMUpBbXY4a2xneTlTbXVJSURpRll5NTAyY2xpNjYK",
       "url": "https://github.com/ratskcorr/autopilot_updater/releases/download/1.1.0/Autopilot_1.1.0_x64_en-US.msi"
     }
   }
